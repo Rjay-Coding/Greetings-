@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Greetings For Sir.</title>
+</head>
+<style>
+   *{
+     margin: 0;
+     padding: 0;
+   }
+  .greetings{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 250px;
+    font-family: cursive, sans-serif;
+    
+  }
+  
+  .background{
+    background-image: url(bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+    display: flex;
+  }
+  
+  
+</style>
+<body>
+<div class="background">
+<div class="greetings">
+  <h1>
+    Happy National Teachers<br> Month
+    Po Surr. Efren
+  </h1>
+  <h1>by-Limbaga:)</h1>
+</div>
+</body>
+</html>
